@@ -37,6 +37,11 @@ There is an IFF mattermost channel, @houndbee / kaustubh@ttc will follow up with
 
 WHO DOCUMENTS THE DOCUMENTERS
 
+## Outcomes:
+
+1. this github repo for capturing better practices
+2. new [Network-centric resources mailing list](https://lists.ghserv.net/mailman/listinfo/discuss) for discussion ([background info](http://www.fabriders.net/network-centric/))
+
 # NEED: Localization presentation standardization
 
 * making this work the same at some level
